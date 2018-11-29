@@ -11,7 +11,7 @@ if (process.env.NODE_ENV === 'development') require('Config');
 export default {
     methods: {
         reset () {
-            this.$router.setHomePage('/pages/demo/index.js');
+          // this.$router.setHomePage('/pages/demo/index.js');
             this.$notice.toast({
                 message: '重置成功，请退出重启app'
             });

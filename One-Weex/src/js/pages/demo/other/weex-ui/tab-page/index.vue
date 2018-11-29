@@ -14,8 +14,8 @@
           :key="index"
           class="item-container"
           :style="{ height: (tabPageHeight - tabStyles.height) + 'px' }"
-          :ref="'list_' + index" 
-          showRefresh="true" 
+          :ref="'list_' + index"
+          showRefresh="true"
           @refresh="getData(index)">
       <cell class="border-cell"></cell>
       <cell v-for="(demo,key) in v"

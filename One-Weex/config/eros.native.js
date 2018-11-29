@@ -8,14 +8,14 @@ module.exports = {
         'iOS': '1.0.0'
     },
     'page': {
-        'homePage': '/pages/oneDemo/app.js',
+        'homePage': '/pages/oneDemo/App.js',
         'mediatorPage': '/mediator/index.js',
         'navBarColor': '#1DA1F2',
         'navItemColor': '#ffffff'
     },
     'url': {
         'jsServer': 'http://192.168.1.67:8889',
-        'image': 'https://lev-inf.benmu-health.com/test/xxx',
+        'image': 'https://lev-inf.benmu-health.com/test/xerosxx',
         'bundleUpdate': 'http://localhosts:3001/app/check'
     },
     'zipFolder': {

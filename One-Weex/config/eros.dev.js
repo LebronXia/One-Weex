@@ -6,7 +6,18 @@ module.exports = {
         // mediator
         'js/mediator/index.vue',
         //OneDemo
-        'js/pages/oneDemo/App.vue'
+        'js/pages/oneDemo/App.vue',
+        'js/pages/oneDemo/home/index.vue',
+        'js/pages/oneDemo/home/read-detail.vue',
+        'js/pages/oneDemo/home/sliderview.vue',
+        'js/pages/oneDemo/read/index.vue',
+        'js/pages/oneDemo/movie/index.vue',
+
+        'js/pages/oneDemo/music/index.vue',
+        'js/pages/oneDemo/music/poster.vue',
+        'js/pages/oneDemo/music/test.vue',
+        'js/pages/oneDemo/music/tab-page-test.vue',
+        'js/pages/oneDemo/music/servicepage.vue'
         // home
          //'js/pages/demo/index.vue',
         // 'js/pages/demo/lifecycle/index.vue',

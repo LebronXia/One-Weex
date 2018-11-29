@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "eros-widget": "^1.0.0",
+    "weex-bindingx": "0.0.14",
     "weex-ui": "^0.3.13beta2"
   },
   "devDependencies": {
